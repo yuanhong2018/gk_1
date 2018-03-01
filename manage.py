@@ -2,6 +2,9 @@
 import os
 import sys
 
+print(123123123123123)
+print(4564564564564645)
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "gk_1.settings")
     try:
